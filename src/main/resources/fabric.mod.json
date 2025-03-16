@@ -22,7 +22,7 @@
 
   "environment": "*",
   "entrypoints": {
-    "beforeGameStart": [
+    "initModels": [
         "tosutosu.betterwithbackpacks.BetterWithBackpacks"
     ],
     "recipesReady": [
